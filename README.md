@@ -295,3 +295,4 @@ The forward function defines how the input data flows through the model to produ
 ## References
 - FastText English word vectors: Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). Enriching Word Vectors with Subword Information.
 - Iyyer, M., Manjunatha, V., Boyd-Graber, J. and Daumé III, H., 2015. Deep Unordered Composition Rivals Syntactic Methods for Text Classification. In: Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing, pp.1681-1691, Beijing, China, 26-31 July. Association for Computational Linguistics. url: https://aclanthology.org/P15-1162/
+- Pennington, J., Socher, R., & Manning, C. (n.d.). GloVe: Global Vectors for Word Representation. Stanford University. Available at: https://nlp.stanford.edu/projects/glove/ [Accessed date: 14 February 2024]
