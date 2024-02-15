@@ -1,10 +1,10 @@
 # Text-classifier-based-on-a-neural-network-toolkit-for-NLP
 Text Classification with FastText and Glove Embeddings
 
-## Assignment 1: Text classifier based on a neural network toolkit for NLP
-## Course Title: INFO-H 519 Natural Language Processing with Deep Learning
-## Student Name: Hasaranga Jayathilake
-## Student Email: hdjayath@iu.edu
+### Assignment 1: Text classifier based on a neural network toolkit for NLP
+### Course Title: INFO-H 519 Natural Language Processing with Deep Learning
+### Student Name: Hasaranga Jayathilake
+### Student Email: hdjayath@iu.edu
 
 ## Overview
 This project demonstrates the creation of a text classifier using a neural network and NLP techniques. We leverage pre-trained word embeddings from FastText to improve the accuracy of our model. The process involves loading these embeddings, preparing the data, defining the neural network model, and training the model for classification tasks.
