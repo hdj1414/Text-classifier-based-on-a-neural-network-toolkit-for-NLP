@@ -26,7 +26,7 @@ class BaseModel(nn.Module):
         self.args = ckpt['args']
         self.load_state_dict(ckpt['state_dict'])
 
-def load_embedding(vocab, emb_file="glove.6B.300d.txt", emb_size=300):
+def load_embedding(vocab, emb_file="crawl-300d-2M-subword.vec", emb_size=300):
     embedding_matrix = np.zeros((len(vocab), emb_size))
     with open(emb_file, 'r', encoding='utf-8') as f:
         for line in f:
