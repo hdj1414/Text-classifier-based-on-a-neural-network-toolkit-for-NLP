@@ -5,7 +5,7 @@ Text Classification with FastText and Glove Embeddings
 ### Course Title: INFO-H 519 Natural Language Processing with Deep Learning
 
 ## Overview
-This project demonstrates the creation of a text classifier using a neural network and NLP techniques. We leverage pre-trained word embeddings from FastText to improve the accuracy of our model. The process involves loading these embeddings, preparing the data, defining the neural network model, and training the model for classification tasks.
+This project demonstrates the creation of a text classifier using a neural network and NLP techniques. I have leveraged pre-trained word embeddings from FastText to improve the accuracy of this model. The process involves loading these embeddings, preparing the data, defining the neural network model, and training the model for classification tasks.
 
 ## Setup
 To use FastText embeddings, download the file using the provided setup.py
@@ -15,7 +15,7 @@ To use FastText embeddings, download the file using the provided setup.py
 
 ***Text classification is a task in natural language processing (NLP) that involves assigning a label to a piece of text based on its content. For example, a text classifier can tell if a movie review is positive or negative, or if an email is spam or not.***
 
-This project used a neural network, a computer program that learns from data, to make a text classifier that can label texts based on their content. The project used FastText embeddings, words with numbers that show their meaning, and some techniques and tools to make the neural network better. The project reached the goal of **0.9224 accuracy** on a test set, as shown in Figure 1. This report explains the steps that have been taken for creating the text classification model based on the instructions.
+This project used a neural network, a computer program that learns from data, to make a text classifier that can label texts based on their content. The project used FastText embeddings, words with numbers that show their meaning, and some techniques and tools to make the neural network better. The project reached the goal of **0.9224 accuracy** on a test set, as shown in Figure 1. This report explains the steps that have been taken to create the text classification model based on the instructions.
 
 ![Figure 1: Accuracy Achievement](Accuracy_Output.PNG)
 
